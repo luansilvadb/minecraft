@@ -1,0 +1,69 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1713717824425L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 17, z: 44, time: 1712989735131L, force_loaded: 1712989735852L }
+			{ x: 15, z: 43, time: 1713553174911L, force_loaded: 1713553178517L }
+			{ x: 15, z: 44, time: 1713553174911L, force_loaded: 1713553178513L }
+			{ x: 16, z: 45, time: 1712664175888L, force_loaded: 1713301357326L }
+			{ x: 18, z: 44, time: 1712989735131L, force_loaded: 1712989735851L }
+			{ x: 17, z: 45, time: 1712676611831L, force_loaded: 1712676616264L }
+			{ x: 14, z: 44, time: 1713553174911L, force_loaded: 1713553178518L }
+			{ x: 16, z: 43, time: 1713553174911L, force_loaded: 1713553178517L }
+			{ x: 14, z: 43, time: 1713553174911L, force_loaded: 1713553178515L }
+			{ x: 16, z: 44, time: 1712664175887L, force_loaded: 1712664194538L }
+			{ x: 15, z: 45, time: 1713553174911L, force_loaded: 1713553178515L }
+		]
+		"allthemodium:mining": [
+			{ x: 16, z: 45, time: 1712869217237L, force_loaded: 1712869217641L }
+			{ x: 16, z: 44, time: 1713131536707L, force_loaded: 1713131545283L }
+			{ x: 19, z: 45, time: 1713131536707L, force_loaded: 1713131544460L }
+			{ x: 19, z: 44, time: 1713131536708L, force_loaded: 1713131544460L }
+			{ x: 18, z: 44, time: 1713131536707L, force_loaded: 1713131544459L }
+			{ x: 18, z: 45, time: 1713131536707L, force_loaded: 1713131544460L }
+		]
+		"minecraft:the_nether": [{ x: 2, z: 5, time: 1713642591000L, force_loaded: 1713642593394L }]
+		"allthemodium:the_other": [{ x: -199, z: 80, time: 1713457021937L, force_loaded: 1713457022286L }]
+		"minecraft:the_end": [{ x: 41, z: 57, time: 1713061594617L, force_loaded: 1713061595809L }]
+	}
+	member_data: {
+		7e8e51d7-11e6-41b0-87d8-948c3f9d589e: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		34c1392a-f565-4fb1-99a7-fb195aa25138: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		e2d3543c-275a-4ee8-b6b9-149c3d707b24: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		baa42a6d-f272-4363-8658-9680a681721c: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		0cb43f3f-e43d-4649-be57-1975240ff059: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		8449096c-7b63-4ae5-8739-7b307c4e94e0: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+	prevented_access: {
+		41c82c87-7afb-4024-ba57-13d2c99cae77: {
+			name: "[Minecraft]"
+			when: 1713310928273L
+		}
+	}
+}
